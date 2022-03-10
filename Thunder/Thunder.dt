@@ -1,0 +1,11 @@
+<theme>
+    <name>Thunder</name>
+    <skinType>1</skinType>
+    <description>Theme electrique</description>
+    <previewUri>ThunderPreview.jpg</previewUri>
+    <author>Storming</author>
+    <version>1.1</version>
+    <dofusVersion>2.63</dofusVersion> 
+    <creationDate>08/03/2022</creationDate> 
+    <modificationDate>10/03/2022</modificationDate> 
+</theme>
